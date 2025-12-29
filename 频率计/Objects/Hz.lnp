@@ -1,0 +1,5 @@
+".\Objects\main.obj",
+".\Objects\delay.obj",
+".\Objects\Nixie.obj" 
+TO ".\Objects\Hz" 
+PRINT(".\Listings\Hz.m51") RAMSIZE(256) 
